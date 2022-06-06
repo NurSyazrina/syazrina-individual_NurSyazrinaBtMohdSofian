@@ -1,0 +1,88 @@
+body{
+ 
+    background-color: Lightsteelblue;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+}
+.menu{
+    background-color: Burlywood;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+.h1{
+    text-decoration: none;
+    padding: 5px;
+    background-color: LightGray;
+    border-radius: 20px;
+    margin-left: 30px;
+    color: black;
+   
+   
+}
+.menu ul{
+    display: flex;
+    justify-content: center;
+    align-items: center;   
+    list-style: none; 
+    
+}
+.menu ul li a{
+    padding: 10px 10px 0px 10px;
+    text-decoration: none;
+    color: black;
+   
+}
+
+.school img{
+    width:600px;
+    height: 500px;
+}
+
+.school2 img{
+    width: 600px;
+    height: 500px;
+}
+
+.school3 img{
+    width: 600px;
+    height: 500px;
+}
+
+.primary{
+       margin-left: 620px;
+       word-wrap: break-word;
+       font-family: Courier new;
+       font-size: 13px;
+       color: black;
+       margin-top: -1400px;
+       text-align: left;
+       font-family: papyrus;
+}
+
+
+.second{
+       margin-left: 620px;
+       word-wrap: break-word;
+       font-family: Courier new;
+       font-size: 13px;
+       color: black;
+       margin-top: 400px;
+       text-align: left;
+      font-family: papyrus;
+}
+
+.third{
+       margin-left: 620px;
+       word-wrap: break-word;
+       font-family: Courier new;
+       font-size: 13px;
+       color: black;
+       margin-top: 300px;
+       text-align: left;
+       font-family: papyrus;
+}
+
+    
